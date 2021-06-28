@@ -1,0 +1,28 @@
+{
+  "name": "food-js_10",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://goitacademy.github.io/food-js_10",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /food-js_10/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goitacademy/food-js_10.git"
+  },
+  "keywords": [],
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goitacademy/food-js_10/issues"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1",
+    "posthtml-include": "^1.7.1",
+    "sass": "^1.35.1"
+  }
+}
