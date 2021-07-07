@@ -15,4 +15,4 @@ const t={LIGHT:"light-theme",DARK:"dark-theme"},e=document.querySelector("input#
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/index.scss"),require("./js/main"),require("./js/theme");
 },{"./sass/index.scss":"dKQo","./js/main":"d6sW","./js/theme":"qwQt"}]},{},["Focm"], null)
-//# sourceMappingURL=/food-js_10/src.ad241a09.js.map
+//# sourceMappingURL=/food-js_10/src.d44f7063.js.map
